@@ -12,7 +12,17 @@
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/MainMenu/UW_InGameMenu.uasset",
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/Level/Game.umap",
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/MainMenu/UW_PauseMenu.uasset"
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/MainMenu/UW_PauseMenu.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_Button.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_PhysicsCube.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Input/Actions/IA_Grab.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Input/Actions/IA_RotatePitch.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_Outline.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/physics/PM_PhysicsCube.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_Door.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_Red.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Input/Actions/IA_RotateYaw.uasset"
 			]
 		}
 	]
