@@ -5,14 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_Outline.uasset",
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/Level/Game.umap",
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/physics/PM_PhysicsCube.uasset",
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/Level/Level_1.umap",
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_PhysicsCube.uasset",
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_RedGlow.uasset",
-				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_Button.uasset",
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/Level/MainMenu.umap",
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/MainMenu/GM_MainMenu.uasset",
@@ -30,7 +22,19 @@
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/physics/PM_PhysicsCube.uasset",
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_Door.uasset",
 				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_Red.uasset",
-				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Input/Actions/IA_RotateYaw.uasset"
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Input/Actions/IA_RotateYaw.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/physics/PM_Floor.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_TrapDoor.uasset",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/Level/Level_1.umap",
+				"C:/Users/s5433360/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_ClimbableWall.uasset",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_Outline.uasset",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/Level/Game.umap",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/physics/PM_PhysicsCube.uasset",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/Level/Level_1.umap",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_PhysicsCube.uasset",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/material/M_RedGlow.uasset",
+				"C:/Users/Zandir/Documents/GitHub/IntermediateGamesProgrammingMechanicsTest/MyProject/Content/blueprint/BP_Button.uasset"
 			]
 		}
 	]
