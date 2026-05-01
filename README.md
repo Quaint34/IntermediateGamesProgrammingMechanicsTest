@@ -8,6 +8,8 @@ Left Mouse -> Climbing
 
 E -> Interact
 
+P -> Pause
+
 **========= **Credits** ==========**
 
 Glowbox3D. (2020 April 14). The Cake is a Lie. Fab.\
