@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject-1312.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.gen.cpp.obj"
+"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.cpp.obj"
+"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject-1312.lib"
