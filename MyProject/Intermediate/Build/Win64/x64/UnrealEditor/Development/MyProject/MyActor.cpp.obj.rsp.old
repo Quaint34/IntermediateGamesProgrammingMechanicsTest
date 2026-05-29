@@ -1,11 +1,11 @@
-"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Source\MyProject\MyActor.cpp"
-/FI"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Definitions.MyProject.h"
-/Yu"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.cpp.obj"
-/sourceDependencies "C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.cpp.dep.json"
-@"C:\Users\s5433360\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.Shared.rsp"
+"C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Source\MyProject\MyActor.cpp"
+/FI"C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Definitions.MyProject.h"
+/Yu"C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.cpp.obj"
+/sourceDependencies "C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.cpp.dep.json"
+@"C:\Users\Zandir\Documents\GitHub\IntermediateGamesProgrammingMechanicsTest\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
