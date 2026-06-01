@@ -1,10 +1,11 @@
-Engine/Binaries/Win64/D3D12/D3D12Core.dll	2026-04-25T02:46:30.443Z
-Engine/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2026-04-25T02:46:30.450Z
-Engine/Binaries/Win64/OpenImageDenoise.dll	2026-04-25T02:46:37.225Z
-Engine/Binaries/Win64/tbb.dll	2026-04-25T02:46:39.902Z
-Engine/Binaries/Win64/tbb12.dll	2026-04-25T02:46:39.936Z
-Engine/Binaries/Win64/tbbmalloc.dll	2026-04-25T02:46:39.937Z
-Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe	2026-04-25T02:46:56.343Z
+Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll	2026-04-25T02:46:31.570Z
+MyProject/Binaries/Win64/D3D12/D3D12Core.dll	2026-04-25T02:46:29.101Z
+MyProject/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2026-04-25T02:46:29.179Z
+MyProject/Binaries/Win64/MyProject-Win64-Shipping.exe	2026-06-01T07:26:40.310Z
+MyProject/Binaries/Win64/OpenImageDenoise.dll	2026-04-25T02:58:02.999Z
+MyProject/Binaries/Win64/tbb.dll	2026-04-25T02:46:24.060Z
+MyProject/Binaries/Win64/tbb12.dll	2026-04-25T02:57:32.179Z
+MyProject/Binaries/Win64/tbbmalloc.dll	2026-04-25T02:46:24.100Z
 Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2026-04-25T02:48:25.581Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2026-04-25T02:46:05.641Z
 Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2026-04-25T02:46:24.319Z
@@ -15,4 +16,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2026-04-25T0
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2026-04-25T02:46:29.249Z
 Engine/Content/Renderer/TessellationTable.bin	2026-04-25T02:47:34.955Z
 Engine/Content/Slate/Cursor/invisible.cur	2026-04-25T02:47:34.977Z
-MyProject.exe	2026-05-01T08:27:59.832Z
+MyProject.exe	2026-06-01T07:27:47.845Z

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zandir\\documents\\github\\intermediategamesprogrammingmechanicstest\\myproject\\source\\myproject\\myproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zandir\\documents\\github\\intermediategamesprogrammingmechanicstest\\myproject\\intermediate\\build\\win64\\x64\\myproject\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\zandir\\documents\\github\\intermediategamesprogrammingmechanicstest\\myproject\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\myproject\\definitions.myproject.h",
+            "c:\\users\\zandir\\documents\\github\\intermediategamesprogrammingmechanicstest\\myproject\\source\\myproject\\myproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
