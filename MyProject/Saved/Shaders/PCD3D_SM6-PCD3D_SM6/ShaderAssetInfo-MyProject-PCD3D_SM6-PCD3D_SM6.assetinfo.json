@@ -2,9 +2,9 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "1AEC290021EC9F71C23FED658E78D478A2A8B0C8",
+			"ShaderMapHash": "81E9380068E3686200400D0726F216CA240347A8",
 			"Assets": [
-				"/Game/material/M_Outline"
+				"/Game/material/M_Glass"
 			]
 		},
 		{
@@ -98,6 +98,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FA47CD17302D7622950AA8131F3FF124EA4359F3",
+			"Assets": [
+				"/Game/material/M_Water"
+			]
+		},
+		{
 			"ShaderMapHash": "66BC5519B007F74D5931711055A49A70730AD178",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
@@ -143,6 +149,12 @@
 			"ShaderMapHash": "CD6CDB292F6A53DD62AC3C912D0D1F1DD0A884BC",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "60437D2D94B42D120A5D8B2633829011F36A6BAC",
+			"Assets": [
+				"/Game/material/M_Bounce"
 			]
 		},
 		{
@@ -424,6 +436,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A1016582F5D54FA47C27D98696A042160A661A45",
+			"Assets": [
+				"/Game/material/M_Fizzle"
+			]
+		},
+		{
 			"ShaderMapHash": "E0C98B823EB766780297111F68155CD3BA0906C3",
 			"Assets": [
 				"/Interchange/gltf/M_Default"
@@ -620,6 +638,12 @@
 			"ShaderMapHash": "F26E26A5EE149311FD414B8E60565BD389D41483",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "736E4EA59319782DF80072E36A51E07440F1B8F0",
+			"Assets": [
+				"/Game/material/M_Red"
 			]
 		},
 		{
@@ -841,12 +865,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "379FBAD1B4ADABB7C9BBAD8DDCB80618810995BB",
-			"Assets": [
-				"/Game/material/M_Red"
-			]
-		},
-		{
 			"ShaderMapHash": "22CE5ED35CFCAB7C318601EEF8501729A950206C",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
@@ -904,6 +922,12 @@
 			"ShaderMapHash": "C8F0EBE168A73E589D727206843550C1D741B458",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "44D48DE2819E0CD355F1BD8B107106D47F24D9A4",
+			"Assets": [
+				"/Game/material/M_Outline"
 			]
 		},
 		{
